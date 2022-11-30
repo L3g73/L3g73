@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello there 👋
+
+<img width="50%" alt="We do not test on animals - We test in production" src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gNvVxMkvRwv3MJpn7BIv_4Ps0SEqWxRfE3Aq8AiKg_hv0xUuRv_lqvdUuO74k-cnpv5BOJ7kCFrWpevpmCb1d264O3brw=w1920-h955">
 
 <!--
 **L3g73/L3g73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
